@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+<a href="mailto:jwsims@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+
+<a href="https://won-percent.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
