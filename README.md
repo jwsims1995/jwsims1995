@@ -1,5 +1,5 @@
 ### 심재원 Jaewon Sim 🔥
-Hyundai IT&E Web Developer
+
 <!--
 **jwsims1995/jwsims1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
